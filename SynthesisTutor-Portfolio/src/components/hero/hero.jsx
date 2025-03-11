@@ -9,7 +9,7 @@ link.href = heroImage;
 document.head.appendChild(link);
 
 export const Hero = () => {
-  const hiringManager = 'Natalie';
+  const hiringManager = 'Anton';
   const teamNeed = 'Doist Frontend Engineer role';
   const ctaUrl = '/assets/kdResume-1.png';
   const ctaText = 'Download CV';
